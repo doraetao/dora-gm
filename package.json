@@ -10,9 +10,13 @@
   "bin": {
     "gm": "./bin/index.js"
   },
-  "author": "zhangshiba",
+  "author": "doraetao",
   "license": "MIT",
   "dependencies": {
     "commander": "^9.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/doraetao/dora-gm.git"
   }
 }
