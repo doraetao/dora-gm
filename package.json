@@ -1,0 +1,18 @@
+{
+  "name": "dora-gm",
+  "version": "0.0.1",
+  "description": "A command line tool for testing",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./bin/index.js"
+  },
+  "bin": {
+    "gm": "./bin/index.js"
+  },
+  "author": "zhangshiba",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.0"
+  }
+}
